@@ -20,7 +20,7 @@ Analyzing the data revealed several differences by city type:
  
 * In Urban cities, lower average fare per ride and high driver count result in the lowest average fare per driver
 
-(INSERT TABLE)
+   ![City_Type_Summary](https://github.com/degitaccount/PyBer_Analysis/blob/main/Analysis/City_Type_Summary.png)
 
 
 * Total fares drop during the last week of February for all city types
