@@ -8,7 +8,7 @@ This analysis explores ride-sharing data by type of city to help inform strategi
 
 Analyzing the data revealed several differences by city type:
 
-* Total rides in Urban are 2.6x higher than the number of rides in Suburban and 13x higher than in Rural
+* Total rides in Urban cities are 2.6x higher than the number of rides in Suburban and 13x higher than in Rural
 
 * 93% of total fares are from Suburban and Urban cities
  
