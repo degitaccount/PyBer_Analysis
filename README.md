@@ -32,7 +32,7 @@ Analyzing the data revealed several differences by city type:
 * Fares in Rural cities are more volatile from Jan-Feb when compares to March-April
 
 
-(INSERT GRAPH)
+  ![Pyber_fare_Summary](https://github.com/degitaccount/PyBer_Analysis/blob/main/Analysis/Pyber_fare_summary.png)
  
 
 ## Summary
